@@ -66,7 +66,7 @@ def lbp_calculated_pixel(img, x, y):
           
     return val
    
-path = r'C:\Users\Si Josgul\Desktop\GitHub\Program\Ekstraksi\GFG.jpg'
+path = r'C:\Users\Si Josgul\Desktop\GitHub\citra digital\Ekstraksi\GFG.jpg'
 img_bgr = cv2.imread(path, 1)
    
 height, width, _ = img_bgr.shape

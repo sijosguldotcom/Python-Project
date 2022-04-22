@@ -10,4 +10,3 @@ Di folder ini ada 2 file gambar contoh,
 Di Folder ini juga ada 2 file python :
 1. ekstraksi.py : digunakan untuk mengecek koordinat
 2. pembacaLPB : digunakan untuk mengecek  visual koordinat dan memprint hasil gambar csv
-
