@@ -3,6 +3,8 @@ Projek khusus Python tim sijosguldotcom
 
 # CITRA DIGITAL :
 
+JANGAN LUPA UNTUK MEMENUHI LIST LIBRARY DI REQUIREMENT.TXT
+
 1.How to run ??
 
 jalankan main.py untuk memulai deteksi tangan.. 
